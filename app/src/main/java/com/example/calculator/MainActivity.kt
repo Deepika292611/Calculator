@@ -6,6 +6,8 @@ import android.view.View
 import androidx.databinding.DataBindingUtil
 import com.example.calculator.databinding.ActivityMainBinding
 
+/*Hello*/
+
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
     var print = StringBuilder()
